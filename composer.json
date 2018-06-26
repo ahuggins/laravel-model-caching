@@ -15,7 +15,7 @@
         "illuminate/console": "5.4 - 5.6",
         "illuminate/database": "5.4 - 5.6",
         "illuminate/support": "5.4 - 5.6",
-        "php": ">=7.1.0"
+        "php": ">=7.0.25"
     },
     "require-dev": {
         "fzaninotto/faker": "*",
